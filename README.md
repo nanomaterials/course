@@ -21,18 +21,18 @@
 
 # Содержание курса
 
-0. [Размерные эффекты и корреляционные радиусы физических явлений](01 - Nanoscale/Lecture.ipynb)
-1. [Электронное строение низкоразмерных структур](02 - From atoms to nanomaterals/Lecture and lab.ipynb)
-2. [Кластеры](03 - Clusters/Lecture.ipynb)
-3. [Металлические наночастицы](04 - Metal NPs/Lecture.ipynb)
-4. [Нанокристаллы полупроводниковых материалов](05 - Semiconductor NPs/Lecture.ipynb)
-5. [Наночастицы широкозонных полупроводников и диэлектриков](06 - Metaloxide NPs/Lecture.ipynb)
-6. [Общие свойства наночастиц различной природы](07 - Common NPs/Lecture.ipynb)
-7. [Нанопроволоки и наностержни](08 - 1D Nanomaterials/Lecture.ipynb)
-8. [Тонкие пленки и покрытия](09 - 2D Nanomaterials/01_Thin films.ipynb)
-9. [Фотонные кристаллы и многослойные структуры](09 - 2D Nanomaterials/02_Photonic crystals.ipynb)
-10. [Консолидированные наноматериалы и нанокомпозиты](10 - 3D Nanomaterials/Nanocomposites.ipynb)
-11. [Самоорганизация и самосборка](10 - 3D Nanomaterials/Self-organization.ipynb)
+0. [Размерные эффекты и корреляционные радиусы физических явлений](01_-_Nanoscale/Lecture.ipynb)
+1. [Электронное строение низкоразмерных структур](02_-_From_atoms_to_nanomaterials/Lecture and lab.ipynb)
+2. [Кластеры](03_-_Clusters/Lecture.ipynb)
+3. [Металлические наночастицы](04_-_Metal_NPs/Lecture.ipynb)
+4. [Нанокристаллы полупроводниковых материалов](05_-_Semiconductor_NPs/Lecture.ipynb)
+5. [Наночастицы широкозонных полупроводников и диэлектриков](06_-_Widegap_NPs/Lecture.ipynb)
+6. [Общие свойства наночастиц различной природы](07_-_Common_ NPs/Lecture.ipynb)
+7. [Нанопроволоки и наностержни](08_-_1D_Structures/Lecture.ipynb)
+8. [Тонкие пленки и покрытия](09_-_2D_Nanomaterials/01_Thin films.ipynb)
+9. [Фотонные кристаллы и многослойные структуры](09_-_2D_Nanomaterials/02_Photonic crystals.ipynb)
+10. [Консолидированные наноматериалы и нанокомпозиты](10_-_3D_Nanomaterials/Nanocomposites.ipynb)
+11. [Самоорганизация и самосборка](10_-_3D_Nanomaterials/Self-organization.ipynb)
 
 
 # Предпосылки и продолжения
