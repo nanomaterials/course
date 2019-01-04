@@ -24,17 +24,17 @@
 # Содержание курса
 
 1. [Размерные эффекты и корреляционные радиусы физических явлений](01_-_Nanoscale/Lecture.ipynb)
-5. [Электронное строение низкоразмерных структур](02_-_From_atoms_to_nanomaterials/Lecture_and_lab.ipynb)
-4. [Кластеры](03_-_Clusters/Lecture.ipynb)
-3. [Металлические наночастицы](04_-_Metal_NPs/Lecture.ipynb)
-2. [Нанокристаллы полупроводниковых материалов](05_-_Semiconductor_NPs/Lecture.ipynb)
-9. [Наночастицы широкозонных полупроводников и диэлектриков](06_-_Widegap_NPs/Lecture.ipynb)
-8. [Общие свойства наночастиц различной природы](07_-_Properties_of_NPs/Lecture.ipynb)
-10. [Нанопроволоки и наностержни](08_-_1D_Structures/Lecture.ipynb)
-6. [Тонкие пленки и покрытия](09_-_2D_Nanomaterials/01_Thin_films.ipynb)
-7. [Многослойные структуры, сверхрешетки и фотонные кристаллы](09_-_2D_Nanomaterials/02_Photonic_crystals.ipynb)
-12. [Консолидированные наноматериалы и нанокомпозиты](10_-_3D_Nanomaterials/Nanocomposites.ipynb)
-11. [Самоорганизация и самосборка](10_-_3D_Nanomaterials/Self-organization.ipynb)
+2. [Электронное строение низкоразмерных структур](02_-_From_atoms_to_nanomaterials/Lecture_and_lab.ipynb)
+3. [Кластеры](03_-_Clusters/Lecture.ipynb)
+4. [Металлические наночастицы](04_-_Metal_NPs/Lecture.ipynb)
+5. [Нанокристаллы полупроводниковых материалов](05_-_Semiconductor_NPs/Lecture.ipynb)
+6. [Наночастицы широкозонных полупроводников и диэлектриков](06_-_Widegap_NPs/Lecture.ipynb)
+7. [Общие свойства наночастиц различной природы](07_-_Properties_of_NPs/Lecture.ipynb)
+8. [Нанопроволоки и наностержни](08_-_1D_Structures/Lecture.ipynb)
+9. [Тонкие пленки и покрытия](09_-_2D_Nanomaterials/01_Thin_films.ipynb)
+10. [Многослойные структуры, сверхрешетки и фотонные кристаллы](09_-_2D_Nanomaterials/02_Photonic_crystals.ipynb)
+11. [Консолидированные наноматериалы и нанокомпозиты](10_-_3D_Nanomaterials/Nanocomposites.ipynb)
+12. [Самоорганизация и самосборка](10_-_3D_Nanomaterials/Self-organization.ipynb)
 
 # Взаимосвязь с другими курсами
 
