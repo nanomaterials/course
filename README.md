@@ -32,7 +32,7 @@
 7. [Общие свойства наночастиц различной природы](07_-_Properties_of_NPs/Lecture.ipynb)
 8. [Нанопроволоки и наностержни](08_-_1D_Structures/Lecture.ipynb)
 9. [Тонкие пленки и покрытия](09_-_2D_Nanomaterials/01_Thin_films.ipynb)
-10. [Фотонные кристаллы и многослойные структуры](09_-_2D_Nanomaterials/02_Photonic_crystals.ipynb)
+10. [Многослойные структуры, сверхрешетки и фотонные кристаллы](09_-_2D_Nanomaterials/02_Photonic_crystals.ipynb)
 11. [Консолидированные наноматериалы и нанокомпозиты](10_-_3D_Nanomaterials/Nanocomposites.ipynb)
 12. [Самоорганизация и самосборка](10_-_3D_Nanomaterials/Self-organization.ipynb)
 
